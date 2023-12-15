@@ -1,5 +1,5 @@
 <html style="font-family:monospace; font-weight:700;">
-<head>
+<head height="400px">
 <p1>Here are all my mindstorms projects!</p1>
 </head>
 <body>
