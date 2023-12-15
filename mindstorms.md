@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html style="font-family:monospace; font-weight:700;">
+<html>
 <nav>
 <title style="font-family:monospace; font-weight:700;">Here are all my mindstorms projects!</title>
 </nav>
