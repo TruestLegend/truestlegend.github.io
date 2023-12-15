@@ -62,8 +62,3 @@
     <script>let page = 3</script><a>Tutorial</a>
   </div>
 </div>
-
-
-
-<button onclick = "if (page = 1)let page = 1">Project ideas</button><button onclick="if (page = 1) let page = 3">Tutorials</button>
-
