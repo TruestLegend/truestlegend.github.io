@@ -52,7 +52,6 @@
 
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-</head>
 <body style="background-color:white;">
 <div class="dropdown">
   <button class="dropbtn">Pages</button>
@@ -62,11 +61,7 @@
   </div>
 </div>
 
-</nav>
 <p1>Here are all my mindstorms projects!</p1>
-</header>
 
 <button onclick = "if (page = 1)let page = 1">Project ideas</button><button onclick="if (page = 1) let page = 3">Tutorials</button>
-</nav>
-</html>
 
