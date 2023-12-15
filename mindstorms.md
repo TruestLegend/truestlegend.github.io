@@ -1,4 +1,9 @@
-<html style="background-color:lightGrey;font-family:Monospace;">
+<html>
+<style>
+body {
+  background-color:lightGrey;
+  font-family:Monospace;
+</style>
 <nav>
 <title style="font-family:monospace; font-weight:700;">Here are all my mindstorms projects!</title>
 </nav>
