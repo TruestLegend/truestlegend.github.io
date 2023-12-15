@@ -1,6 +1,9 @@
 <html style="font-family:monospace; font-weight:700;">
-<header height="400px">
-<style>.dropbtn {
+<nav>
+<p1 style="font-family:monospace; font-weight:700;">Here are all my mindstorms projects!</p1>
+</nav>
+<header>
+  <style>.dropbtn {
   body {
   background-color:white;
   font-family:Monospace;
@@ -47,7 +50,6 @@
 
 .dropdown:hover .dropbtn {background-color:gray;border-bottom-left-radius: 0rem; border-bottom-right-radius: 0rem;}
 </style>
-</head>
 <body>
 
 <head>
@@ -61,7 +63,7 @@
   </div>
 </div>
 
-<p1>Here are all my mindstorms projects!</p1>
+
 
 <button onclick = "if (page = 1)let page = 1">Project ideas</button><button onclick="if (page = 1) let page = 3">Tutorials</button>
 
