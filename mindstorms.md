@@ -1,3 +1,4 @@
+<!DOCTYPE=html>
 <html style="font-family:monospace; font-weight:700;">
 <nav>
 <p1 style="font-family:monospace; font-weight:700;">Here are all my mindstorms projects!</p1>
