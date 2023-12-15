@@ -4,8 +4,8 @@
 </head>
 <body height="400px">
 <p2>Custom sounds!</p2>
-<p3>After three weeks of trying things and failing i found out how to make custom sounds! It's super simple but i just couldn't find it anywhere! It is on beta (havent tried it out the normal page) but this is litteraly the code:
-let {custom sound name} = music.fromWAV(Buffer.fromBase64("{Your base 64 string}"))</p3>
+<script>let page = 1;</script>
+<button onclick = "if (page = 1)let page = 1">Project ideas</button><button onclick="if (page = 1) let page = 3">Tutorials</button>
 </body>
 </html>
-<script>let page = 1;</script>
+
