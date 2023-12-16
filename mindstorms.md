@@ -61,7 +61,7 @@ body {
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <body style="background-color:white;">
 <div class="dropdown">
-  <button class="dropbtn">Pages</button>
+  <button class="dropbtn">Segments</button>
   <div class="dropdown-content">
     <script>let page = 2</script><a>Ideas</a>
     <script>let page = 3</script><a>Tutorial</a>
