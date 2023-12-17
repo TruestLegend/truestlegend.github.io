@@ -1,4 +1,4 @@
-<html>
+<html style="background-color:lightGrey; font-family:Monospace;">
 <style>
 body {
   background-color:lightGrey;
