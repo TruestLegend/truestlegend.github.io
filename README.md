@@ -1,1 +1,1 @@
-It's the website of mine!
+Hello! Welcome to the github of the Gekkies Wiki!
